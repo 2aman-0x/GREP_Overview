@@ -14,7 +14,7 @@ __Example:__ ```grep User file.csv```
 __1) To ignore the upper and lower case while searching.__<br>
 ```grep i "keyword" file.```
 
-__2) To search everything except given pattarn/keyword.__<br>
+__2) To search everything except given pattern/keyword.__<br>
 ```grep -v "keyword" file```
 
 __3) To print how many times (count) given keyword present in file.__<br>
@@ -34,7 +34,7 @@ __7) To supress file names while search a given keyword in multiple files.__<br>
 ```grep -h "keyword" file1 file2```
 
 __8) To search multiple keywords in a file.__<br>
-```grep -e "keyword1" -e "keyword2" file<br>```
+```grep -e "keyword1" -e "keyword2" file```<br>
 ```egrep "keyword|keyword|keyword" file```
 
 __9) To search multiple keywords in multiple files__<br>
