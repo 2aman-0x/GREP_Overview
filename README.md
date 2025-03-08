@@ -55,11 +55,11 @@ __13) To print the matching line which end with given keyword.__<br>
 
 __14) Suppose we have 100 files in a directory (dirA) and we need to search a keyword in all the files.__<br>
 ```grep -R "keyword" dirA/```<br>
-```grep "keyword" dirA/*```</i>
+```grep "keyword" dirA/*```
 
 __15) If just wanna search but don't want to print on terminal.__<br>
 ```grep -q "keyword" file```
 
 __16) If you want to suppress error message.__<br>
-```grep -s "keyword" file```
+```grep -s "keyword" file```</i>
 
