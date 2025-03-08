@@ -5,7 +5,7 @@ __- <i>"Global Regular Expression Print"</i>__
 __<i>Grep command search for a particular string/keyword from a file and print lines matching a pattern.__
 
 __It check line by line and print lines matching given pattern.
-It can use anywhere like with files, searching for file, directories etc.__</i>
+It can use anywhere like with files, searching for file, directories etc.__
 
 __Grep Command Syntax :__ ``` grep [OPTION] Pattern [File]. ```
 
@@ -55,7 +55,7 @@ __13) To print the matching line which end with given keyword.__<br>
 
 __14) Suppose we have 100 files in a directory (dirA) and we need to search a keyword in all the files.__<br>
 ```grep -R "keyword" dirA/```<br>
-```grep "keyword" dirA/*```
+```grep "keyword" dirA/*```</i>
 
 __15) If just wanna search but don't want to print on terminal.__<br>
 ```grep -q "keyword" file```
