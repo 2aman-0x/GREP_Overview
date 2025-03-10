@@ -1,4 +1,4 @@
-# GREP command overview
+# _GREP command overview_
 
 __- <i>"Global Regular Expression Print"</i>__
 
