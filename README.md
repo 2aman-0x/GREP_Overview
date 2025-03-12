@@ -40,7 +40,7 @@ __8) To search multiple keywords in a file.__<br>
 __9) To search multiple keywords in multiple files__<br>
 ```grep -e "keyword1" -e "keyword2" file1 file2 file3```
 
-__10) To only print file nanes whuch matched guven keyword.__<br>
+__10) To only print file names which matched given keyword.__<br>
 ```grep -l "keyword" file1 file2```
 
 __11) To get the keywords/pattern from a file and match with a another file.__<br>
