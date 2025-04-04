@@ -58,6 +58,7 @@ __13) To print the matching line which end with given keyword.__<br>
 __14) Suppose we have 100 files in a directory (dirA) and we need to search a keyword in all the files.__<br>
 ```grep -R "keyword" dirA/```<br>
 ```grep "keyword" dirA/*```<br>
+
 To chcek previous command seccess or not then type:```echo $?```<br>
 If output is ```0``` then it was succeed but output is ```1``` then not succeed.
 
