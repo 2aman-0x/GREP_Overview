@@ -14,7 +14,7 @@ __Grep Command Syntax :__ ``` grep [OPTION] Pattern [File]. ```
 __Example:__ ```grep User file.csv```
 
 __1) To ignore the upper and lower case while searching.__<br>
-```grep i "keyword" file.```
+```grep -i "keyword" file.```
 
 __2) To search everything except given pattern/keyword.__<br>
 ```grep -v "keyword" file```
